@@ -382,6 +382,10 @@ SELECT cats.name, dogs.name FROM cats, dogs;
 
 You may see this in the future. Don't let it trip you up.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sql-queries-basic-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sql-queries-basic-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/sql-queries-basic-readme'>Basic SQL Queries</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/sql-queries-basic-readme'>Basic SQL Queries</a> on Learn.co and start learning to code for free.</p>
